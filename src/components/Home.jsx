@@ -15,7 +15,7 @@ const Home = () => {
           financial markets & in future I aspire to get into Quantative Trading, Machine Learning & Ai.
         </p>
         <div>
-            <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
+            <button className= "sm:hide text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
                 View More
             <span className="group-hover:rotate-90 duration-300">
             <HiArrowNarrowRight className="ml-3"/>
